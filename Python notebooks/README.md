@@ -16,5 +16,5 @@
 - Model: Self-built neural network
 - Parameters predicted: Fuel rate (L/hr) and state of charge (SOC)
 - Results:
-  <img width="337" height="150" alt="image" src="https://github.com/user-attachments/assets/7704bda8-cdd4-4d62-816c-e62835b06428" />
+<img width="337" height="150" alt="image" src="https://github.com/user-attachments/assets/7704bda8-cdd4-4d62-816c-e62835b06428" />
 
