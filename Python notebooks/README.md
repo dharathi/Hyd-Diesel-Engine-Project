@@ -18,3 +18,7 @@
 - Results:
 <img width="337" height="150" alt="image" src="https://github.com/user-attachments/assets/7704bda8-cdd4-4d62-816c-e62835b06428" />
 
+**4. NN_VED_OBD2_Test.ipynb:**
+- Dataset: OBD2-datalogger/Fiesta-TD-Ci
+- NN built in 'NN_VED.ipynb' trained on VED dataset was loaded and tested on data collected from a diesel engine car using OBD2 data logger.
+
