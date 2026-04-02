@@ -8,3 +8,9 @@ This repository contains the work on the research which focuses on developing a 
 This work aims to build a control system for the hybrid engine to:
 - Control the hydrogen–diesel fuel blend dynamically based on engine load conditions
 - Manage energy flow intelligently between subsystems (diesel engine, electrolyzer, fuel cell, battery if applicable)
+
+## Datasets
+| Sl. No | Dataset Name | Description | Source |
+|--------|-------------|------------|--------|
+| 1 | VED (Vehicle Energy Dataset) | Time-stamped naturalistic driving records of 383 vehicles (including gasoline ICE vehicles, EV, HEV, PHEV). Load changes and respective fuel consumption is recorded. | [Link](https://github.com/gsoh/VED/blob/master/README.md) |
+| 2 | Dual-Fuel Engine Combustion Dataset | Contains 1463 records of data on performance and emission characteristics of a dual-fuel ICE operating under various load conditions and fuel ratios. | [Link](https://www.kaggle.com/datasets/ziya07/dual-fuel-engine-combustion-dataset) |****
