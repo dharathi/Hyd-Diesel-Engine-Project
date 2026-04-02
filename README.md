@@ -13,4 +13,5 @@ This work aims to build a control system for the hybrid engine to:
 | Sl. No | Dataset Name | Description | Source |
 |--------|-------------|------------|--------|
 | 1 | VED (Vehicle Energy Dataset) | Time-stamped naturalistic driving records of 383 vehicles (including gasoline ICE vehicles, EV, HEV, PHEV). Load changes and respective fuel consumption is recorded. | [Link](https://github.com/gsoh/VED/blob/master/README.md) |
-| 2 | Dual-Fuel Engine Combustion Dataset | Contains 1463 records of data on performance and emission characteristics of a dual-fuel ICE operating under various load conditions and fuel ratios. | [Link](https://www.kaggle.com/datasets/ziya07/dual-fuel-engine-combustion-dataset) |****
+| 2 | Dual-Fuel Engine Combustion Dataset | Contains 1463 records of data on performance and emission characteristics of a dual-fuel ICE operating under various load conditions and fuel ratios. | [Link](https://www.kaggle.com/datasets/ziya07/dual-fuel-engine-combustion-dataset) |
+| 3 | Diesel Engine OBD2 Dataset (Ford Fiesta TDCi) | Experimental dataset collected using an OBD2 data logger from a Ford Fiesta TDCi diesel engine, including real-time vehicle parameters such as speed, engine RPM, and fuel consumption under varying operating conditions. | Self-collected |
