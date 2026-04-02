@@ -1,4 +1,4 @@
-# Smart energy management system (SEMS) for hybrid engines
+# Smart energy management system (SEMS) for hydrogen based engines
 
 <p align="center">
   <img width="236" height="374" alt="image" src="https://github.com/user-attachments/assets/8bf38f43-5601-4f39-a5ca-35269dc34d34" />
